@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    error_highlight (0.3.0)
+    rack (3.0.8)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  error_highlight (~> 0.3.0)
+  rack
+
+BUNDLED WITH
+   2.4.16
